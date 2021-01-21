@@ -1,0 +1,59 @@
+.App {
+  text-align: center;
+}
+.MovieHeaven{
+  padding-top: 5%;
+  
+}
+.r-float{
+  float: right;
+}
+.l-float{
+  float: left;
+}
+.width-50{
+  width: 50% !important;
+}
+.el-center{
+  align-items: center;
+  justify-content: center;
+}
+.cnt-mar{
+  margin-left: 10%!important;
+  margin-right: 10%!important;
+  max-width: 80%!important;
+}
+
+.scrl-x{
+  flex-wrap: nowrap!important;
+  overflow-x: scroll!important;
+}
+.pag-num{
+  color: blue;
+  border: solid 1px blue;
+  border-radius: 10px;
+  font-size: 25px;
+  margin: 5px;
+  padding: 3px;
+  cursor: pointer;
+}
+.scr-hidden{
+  overflow: hidden;
+}
+
+.App-header {
+  background-color: #282c34;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.card-img{
+  width: 300px!important;
+    height: 450px!important;
+}
+.h-40{
+  height: 40px!important;
+}
